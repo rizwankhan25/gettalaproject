@@ -319,7 +319,7 @@ document.querySelector(".items2").addEventListener("mousemove",function() {
     document.querySelector(".items3 h1").style.webkitTextStroke = "initial"
     // document.querySelector(".items2 h1").style.color = "initial"
     document.querySelector(".items2 h1").style.webkitTextStroke = "initial"
-    document.querySelector(".arrow-3").style.opacity = "initial"
+    document.querySelector(".arrow-3").style.opacity = "initial" 
     document.querySelector(".arrow-1").style.opacity = "initial"
     document.querySelector(".arrow-2").style.opacity = "initial"
  })
